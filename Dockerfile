@@ -4,7 +4,7 @@
 # - Git
 # - Composer
 #
-FROM php:7.3-cli-alpine
+FROM php:7.4-cli-alpine
 
 LABEL author="Samuel Marchal <samuel@148.fr>"
 
